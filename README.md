@@ -1,5 +1,5 @@
 # Edge-Detection
-Original Image: 
+## Original Image: 
 <img width="550" alt="central park" src="https://github.com/sarehsoltani/Edge-Detection/assets/23232055/ffed22a6-26ee-4f15-b330-16ddc2509e2f">
 
 1. Lablacian
