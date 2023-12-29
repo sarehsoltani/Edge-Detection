@@ -25,3 +25,7 @@ The project results demonstrate the effectiveness of edge detection algorithms b
 ### Laplacian Edge Detection Result
 
 ![Laplacian Edge Detection](https://github.com/sarehsoltani/Edge-Detection/assets/23232055/8c1b82c6-ac31-4087-834e-378786f1ecdb)
+
+### Why Canny Edge Detection Stands Out
+
+Among various edge detection algorithms available, Canny edge detection emerges as a prominent choice due to its exceptional accuracy, robustness against noise, and precise edge localization capabilities. The Canny algorithm boasts a low error rate by minimizing false edge detections through edge thinning and preserving strong edges. Its ability to accurately locate edges, even in noisy images, makes it a preferred choice for many computer vision applications. Canny's utilization of hysteresis thresholding aids in distinguishing between strong and weak edges, resulting in more continuous and meaningful edge maps. Moreover, its parameter tunability, computational efficiency, and widespread acceptance in the field of image processing further solidify its position as a go-to algorithm for tasks demanding accurate edge detection.
